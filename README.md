@@ -1,6 +1,17 @@
-# Tekken-7
-# Tekken 3
-# Tekken Tag Tournament 
-# Tekken 
-# Dash Fight
+# Guide To Website
+~~~~~~~~~~~~~~~~~~~~
+==>The aim is to create website full of Tekken contents
+--------------------
+=>The contents may include
+#move guide
+#framedata sheets
+#character bio
+#story
+#tournaments
+#tekken shop
+# ...and more...
+--------------------
+The aim will be achieved with passage of time
+The draft has been drawn and will soon be released
+
 
