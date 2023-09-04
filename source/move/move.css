@@ -1,0 +1,57 @@
+body {
+    font-family: Arial sans-serif;
+    background-color: #f1f1f1;
+    background-image: url(../../assets/img/other/bg4.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  h1 {   
+    text-align: center;
+font-size: 55px;
+font-weight: 600;
+color: #fdfdfe;
+text-shadow: 0px 0px 5px #080808e7, 0px 0px 10px #080808e7, 0px 0px 10px #050505e7,
+  0px 0px 20px #030303e7;
+  padding-right: 20%;
+  margin-left: 30%;
+ 
+  }
+  h2 {
+    text-align: left;
+font-size: 30px;
+font-weight: 400;
+color: #fdfdfe;
+text-shadow: 0px 0px 5px #514fcfd5, 0px 0px 10px #514fcfd5, 0px 0px 10px #514fcfd5,
+  0px 0px 20px #515151;
+  }
+  
+  
+  .character {
+    margin-bottom: 20px;
+    background-color: rgba(0, 204, 255, 0.416);
+    padding: 20px;
+    border-radius: 5px;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .character h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .move {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+
+  .move .move-label {
+    width: 150px;
+    font-weight: bold;
+  }
+
+  .move .move-description {
+    flex: 1;
+  }
